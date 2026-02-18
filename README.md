@@ -44,11 +44,15 @@ infinito a partir de uma configuração finita.
 
 1.  Instale as dependências:
 
+```
 pip install numpy matplotlib
+```
 
 2.  Execute o arquivo:
 
+```
 python index.py
+```
 
 Uma janela será aberta mostrando a animação da simulação.
 
